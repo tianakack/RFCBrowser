@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/RFC">
+        <file>RFC.png</file>
+    </qresource>
+</RCC>
